@@ -1,2 +1,7 @@
-# in-a-word-app
-Text summary generator web application
+# 'IN A WORD' APPLICATION
+
+-------------
+
+## Description
+
+A Cloud-Native serverless application for text summary generation
