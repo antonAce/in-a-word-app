@@ -1,6 +1,4 @@
-# 'IN A WORD' APPLICATION
-
--------------
+# IN A WORD APPLICATION
 
 ## Description
 
